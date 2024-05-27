@@ -23,6 +23,7 @@
 
 ### Languages and Tools:
 
+![OpenAI](https://img.shields.io/badge/chatGPT-74aa9c?logo=openai&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
